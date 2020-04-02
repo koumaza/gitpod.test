@@ -1,6 +1,6 @@
-FROM alpine/git
+FROM    alpine/git
 
-USER root
-SHELL [ "bash" ]
-RUN apk add curl bash ;\
-    curl https://raw.githubusercontent.com/koumaza/dot/master/gitpod/gitpod.sh | bash
+USER    root
+RUN     apk add curl bash
+SHELL   [ "bash" ]
+RUN     curl https://raw.githubusercontent.com/koumaza/dot/master/gitpod/gitpod.sh | bash
