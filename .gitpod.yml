@@ -2,43 +2,6 @@ image:
   file: .gitpod.Dockerfile
 vscode:
   extensions:
-    - rogalmic.bash-debug
-    - mads-hartmann.bash-ide-vscode
-    - bmalehorn.vscode-fish
-    - redhat.vscode-yaml
-    - redhat.vscode-xml
-    - ms-python.python
-    - ms-vscode.Go
-    - quicktype.quicktype
-    - naumovs.color-highlight
-    - lihui.vs-color-picker
-    - vscode-icons-team.vscode-icons
-    - eamodio.gitlens
-    - esbenp.prettier-vscode
-    - donjayamanne.githistory
-    - humao.rest-client
-    - jebbs.plantuml
-    - ionutvmi.path-autocomplete
-    - mechatroner.rainbow-csv
-    - ryu1kn.partial-diff
-    - GitHub.vscode-pull-request-github
-    - emilast.LogFileHighlighter
-    - IBM.output-colorizer
-    - zxh404.vscode-proto3
-    - chrmarti.regex
-    - shardulm94.trailing-spaces
-    - wiggin77.codedox
-    - DavidAnson.vscode-markdownlint
-    - oderwat.indent-rainbow
-    - ms-azuretools.vscode-docker
-    - streetsidesoftware.code-spell-checker
-    - ms-vscode.cpptools
-    - ms-dotnettools.csharp
-    - redhat.java
-    - MS-vsliveshare.vsliveshare
-    - MS-vsliveshare.vsliveshare-audio
-    - MS-vsliveshare.vsliveshare-pack
-    - lostintangent.vsls-whiteboard
 
 
 
